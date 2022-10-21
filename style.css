@@ -19,7 +19,6 @@
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
-    align-items: center;
 }
 .cat1, .cat2, .cat3{
      padding: 10px 30px;
@@ -51,4 +50,10 @@
 .card-footer{
     background-color: #fff;
     border-top: none;
+}
+#Contuct-us{
+    height: 300px;
+}
+#contuct-us h6{
+    color: gray;
 }
